@@ -4364,7 +4364,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M35.475S",
           "Guid": "ba011a6f-a601-4008-8168-81fc4cd48a93",
           "Name": "Логика причин и следствий",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4373,7 +4373,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M43.633S",
           "Guid": "37bc47c6-2180-43ad-aa9d-5bedcdc92b54",
           "Name": "Логическая задача",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4382,7 +4382,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M46.868S",
           "Guid": "bcc57d46-93e0-4666-85d5-4b0f34437db6",
           "Name": "Тренировка логического мышления",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

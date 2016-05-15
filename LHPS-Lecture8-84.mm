@@ -3941,7 +3941,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT11M52.935S",
           "Guid": "0477d7e1-0e41-4f82-9b02-caf1f5b20b2d",
           "Name": "Деконструкция в современном искусстве",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3950,7 +3950,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT14M5.904S",
           "Guid": "9c36432b-105f-42f7-8696-1fe1cbbb540b",
           "Name": "Деконструкция в литературной критике",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3959,7 +3959,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT2M27.326S",
           "Guid": "c3634336-0cea-4ce2-bf8d-2a07579f5bcb",
           "Name": "Деконструкция в философии",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

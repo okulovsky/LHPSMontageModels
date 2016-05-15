@@ -4454,7 +4454,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M56.116S",
           "Guid": "fa601ac0-19a0-49e3-8555-93e78672228e",
           "Name": "Средневековье",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4463,7 +4463,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT14M59.475S",
           "Guid": "b7ff7012-c571-4228-9a87-8b9d813ae745",
           "Name": "Роль христианства",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4472,7 +4472,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M12.543S",
           "Guid": "c83c3989-0e6c-4e9f-9a95-ed86bf5bcca3",
           "Name": "Что дальше",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

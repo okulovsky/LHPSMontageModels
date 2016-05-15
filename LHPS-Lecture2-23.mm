@@ -3329,7 +3329,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT11M24.509S",
           "Guid": "43b53af9-f345-4842-95cd-b38fb46fc732",
           "Name": "Математическая логика",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3338,7 +3338,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M59.095S",
           "Guid": "240ec178-8da1-4c02-9a5b-f9a2eb328bab",
           "Name": "Таблицы истинности",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

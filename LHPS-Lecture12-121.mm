@@ -4121,7 +4121,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M2.482S",
           "Guid": "46a96a81-f68f-49ba-9892-5a01f1937f9b",
           "Name": "Научный прогресс 19 века",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4130,7 +4130,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M19.595S",
           "Guid": "92f2c47b-0668-4cbd-9bc8-ce0dae6a3278",
           "Name": "Развод философии и науки",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4139,7 +4139,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M21.561S",
           "Guid": "ad2c06c6-400d-4abe-8692-239370e0d6cb",
           "Name": "Вопросы философии науки",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

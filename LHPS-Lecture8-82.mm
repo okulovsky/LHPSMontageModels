@@ -3851,7 +3851,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M28.293S",
           "Guid": "9b989cfc-b080-45e8-94dc-cfcc1dd4c20f",
           "Name": "Многомерные границы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3860,7 +3860,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M26.495S",
           "Guid": "987b3f64-9367-4f6c-b7b1-5004b92c6e7b",
           "Name": "Бинарные оппозиции в тексте",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3869,7 +3869,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M12.268S",
           "Guid": "55d8c15b-7b3d-4a4a-ad97-bc25b22244da",
           "Name": "Психологические портреты",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3878,7 +3878,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M3.905S",
           "Guid": "3f0c8e50-9990-4928-b2ae-8c31b7d6e10f",
           "Name": "Основная проблема",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

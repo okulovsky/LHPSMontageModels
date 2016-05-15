@@ -4211,7 +4211,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M59.406S",
           "Guid": "7337a8d7-ee68-42a3-a44e-94c02cd05362",
           "Name": "Решение проблемы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4220,7 +4220,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT11M24.378S",
           "Guid": "341d8662-b0fb-4b31-86b1-c8353345cbcc",
           "Name": "Практика деконструкции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4229,7 +4229,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M17.033S",
           "Guid": "641b9eb6-4092-4a51-8f56-e30d9e6d9e37",
           "Name": "Как защититься от деконструкции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

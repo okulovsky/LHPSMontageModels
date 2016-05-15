@@ -5669,7 +5669,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M27.8S",
           "Guid": "df4c44a3-2fe2-4312-957e-3095270014df",
           "Name": "Зачем нужна логика",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -5678,7 +5678,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M16.167S",
           "Guid": "1f937653-b683-4fcd-a9fc-33fe8c522007",
           "Name": "Силлогизмы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -5687,7 +5687,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M5.433S",
           "Guid": "52b960d1-ee60-4a06-84c2-5b376d3647ed",
           "Name": "Более сложные силлогизмы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -5696,7 +5696,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M54.695S",
           "Guid": "0d343245-b4a0-4cb6-8357-b40879fc4ec7",
           "Name": "Разоблачение манипуляций с помощью силлогизма",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -5705,7 +5705,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M15.429S",
           "Guid": "c7e92d94-f883-4031-bb8c-d25399a0cb55",
           "Name": "Валидность рассуждения",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -5714,7 +5714,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M43.926S",
           "Guid": "c81e3379-58b9-4b8e-8704-4a81d1faa389",
           "Name": "Обоснованность рассуждения",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -5723,7 +5723,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M23.285S",
           "Guid": "5d2d3730-2166-49ae-88cc-6677278904a8",
           "Name": "О валидности, обоснованности и истинности",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

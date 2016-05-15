@@ -4319,7 +4319,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M27.856S",
           "Guid": "3393dcfd-9ef4-408d-87e2-1ded7537c42a",
           "Name": "Второе возражение",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4328,7 +4328,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M43.189S",
           "Guid": "3fef1e40-952f-4e0f-b204-dc5644c2b5c8",
           "Name": "Отзыв тезиса",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4337,7 +4337,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M22.834S",
           "Guid": "d5c3308e-995a-4957-9764-1bd967ebaf87",
           "Name": "Обоснование и его первое опровержение",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4346,7 +4346,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M3.857S",
           "Guid": "2a654f30-7f88-4f17-8a42-c9fd8d2e3e88",
           "Name": "Второе опровержение",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

@@ -3302,7 +3302,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M3.28S",
           "Guid": "acd29d86-1449-4f76-bd12-3739bead5a67",
           "Name": "Стандартная форма",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3311,7 +3311,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M37.19S",
           "Guid": "964c96a2-6182-4a68-a373-58dab6185238",
           "Name": "Пресуппозиции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3320,7 +3320,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M31.258S",
           "Guid": "7b77a959-36f5-47aa-9c4f-2fa1d4b4da62",
           "Name": "Модальности",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3329,7 +3329,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M24.74S",
           "Guid": "06ff0323-5276-4f13-914b-ae7a68752e4b",
           "Name": "Апелляция к авторитету",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3338,7 +3338,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M5.812S",
           "Guid": "55d2265e-2980-4042-a96e-dd8e8f427744",
           "Name": "Ad hominem",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

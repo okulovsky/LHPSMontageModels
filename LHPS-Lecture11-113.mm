@@ -6227,7 +6227,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT11M38.318S",
           "Guid": "428d5d9d-998f-4d70-a7c0-fa14b4fe0411",
           "Name": "Критика Юма",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -6236,7 +6236,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT11M28.78S",
           "Guid": "ab9f5039-5297-44da-8c9a-20a13b8cae92",
           "Name": "Решение Канта",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -6245,7 +6245,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT14M8.816S",
           "Guid": "90574302-1a27-46a2-82b5-57f43b15abcd",
           "Name": "Философия и разработка программного обеспечения",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

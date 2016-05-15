@@ -2861,7 +2861,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M55.579S",
           "Guid": "99c921f7-ffc5-48ec-a8fd-87271fef390f",
           "Name": "Защитные конструкции и статистическое обобщение",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -2870,7 +2870,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M14.923S",
           "Guid": "2b3cab1a-49ec-4734-9e50-b66f5f3a88dc",
           "Name": "Манипуляции с помощью статистики",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -2879,7 +2879,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M11.932S",
           "Guid": "85c0cdc2-cd95-41d0-a12f-ff930fb04688",
           "Name": "Примеры ошибок мышления, связанных со статистикой",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

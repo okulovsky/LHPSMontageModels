@@ -3608,7 +3608,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M40.569S",
           "Guid": "076cf09d-2f70-4317-b278-3af0dd8b7c37",
           "Name": "Причинно-следственные связи",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3617,7 +3617,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M9.978S",
           "Guid": "fb787def-323a-4b78-9950-1507beb36bea",
           "Name": "Установление причинно-следственных связей",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3626,7 +3626,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M10.074S",
           "Guid": "3ed7fb9c-bac0-4c39-bb57-af9c374e249b",
           "Name": "Классификация причинно-следственных связей",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

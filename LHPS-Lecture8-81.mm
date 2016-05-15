@@ -3014,7 +3014,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M44.247S",
           "Guid": "5b70e059-5335-45e8-80dd-c94d3d0db03f",
           "Name": "Что такое деконструкция",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3023,7 +3023,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M1.846S",
           "Guid": "4b5539cc-26ab-4aca-9bbf-692910ea1622",
           "Name": "Модельный пример",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3032,7 +3032,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT13M7.256S",
           "Guid": "c29c8386-eb86-4048-a178-052a73bfeeab",
           "Name": "Я, Сверх-Я и Оно",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

@@ -4463,7 +4463,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M18.828S",
           "Guid": "e2c0339c-aee9-48d7-85c8-94d3faac4890",
           "Name": "Ошибки поиска причинно-следственной связи",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4472,7 +4472,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M28.816S",
           "Guid": "5ddebb58-63ad-4fe4-9ab6-fcb3f755d6fc",
           "Name": "Абдукция",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4481,7 +4481,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT14M54.011S",
           "Guid": "7cdeccb6-77b8-4774-8ac5-132d02707efb",
           "Name": "Критерии абдукции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

@@ -2213,7 +2213,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M44.301S",
           "Guid": "e03f6450-75b0-46d3-9d49-7fd8ca1585d4",
           "Name": "Ошибки абдукции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -2222,7 +2222,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M27.197S",
           "Guid": "31d92581-8b54-443d-962c-d51cf3dd9177",
           "Name": "Аналогии",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -2231,7 +2231,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M33.393S",
           "Guid": "8e3a1839-bd2d-4a5c-8d3f-fe06ad6b4519",
           "Name": "Ошибки аналогии",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

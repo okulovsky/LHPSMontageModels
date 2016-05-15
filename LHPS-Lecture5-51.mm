@@ -4796,7 +4796,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M29.639S",
           "Guid": "020a0dca-50c0-4ebe-9ef1-b45dcb80fb1a",
           "Name": "Дедукция и индукция, часть 1",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4805,7 +4805,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M2.834S",
           "Guid": "cca89e43-a89e-40dc-8a8c-e083df72a665",
           "Name": "Дедукция и индукция, часть 2",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4814,7 +4814,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M13.311S",
           "Guid": "9353f2a3-1ba3-489a-b12c-528f84bd88e4",
           "Name": "Бесплодность дедукции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4823,7 +4823,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M11.172S",
           "Guid": "6fdfd0a1-5770-47bd-a074-f2ffbc29dfe4",
           "Name": "Индуктивные рассуждения и проблема индукции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

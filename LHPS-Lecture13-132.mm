@@ -6038,7 +6038,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M27.213S",
           "Guid": "2b2bd27f-394e-4716-9abf-edb440ade357",
           "Name": "Подтверждения и опровержение",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -6047,7 +6047,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M3.731S",
           "Guid": "222e3c78-00a8-4d5b-ac31-b7f523e33a9b",
           "Name": "Фальсифицируемость гипотезы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -6056,7 +6056,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M54.903S",
           "Guid": "735f56ea-c387-43ac-80a5-84ef3fea33ed",
           "Name": "Эксперимент",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -6065,7 +6065,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M2.194S",
           "Guid": "607589f0-94e1-449a-acb7-6845b8e9879b",
           "Name": "Теория",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

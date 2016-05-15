@@ -4130,7 +4130,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M7.211S",
           "Guid": "8dd2c48b-d23d-4ca9-8dc8-1b59600b486b",
           "Name": "Вопросы новой философии",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4139,7 +4139,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M40.918S",
           "Guid": "765c5469-d150-4e94-b6c8-30b049c37cf0",
           "Name": "Рационализм Декарта",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4148,7 +4148,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M58.361S",
           "Guid": "741a4ff4-d4d9-4017-8ef9-e451e9a2802b",
           "Name": "Эмпиризм Локка",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

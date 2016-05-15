@@ -3995,7 +3995,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M37.751S",
           "Guid": "cf996496-d026-44dc-b805-083de78ec08d",
           "Name": "Языковые игры",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4004,7 +4004,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M37.2S",
           "Guid": "20e27389-74d0-4b20-8aab-7821e00aea1b",
           "Name": "Логика в языковых играх",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4013,7 +4013,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M32.513S",
           "Guid": "a95d4c40-ba4f-4912-86d3-77927e59ce6f",
           "Name": "Бритва Хэнлона",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

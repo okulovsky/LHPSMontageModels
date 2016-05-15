@@ -3428,7 +3428,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M43.001S",
           "Guid": "8b807e1a-9154-4b42-a345-33e2740157a0",
           "Name": "Логический позитивизм",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3437,7 +3437,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M34.054S",
           "Guid": "5170939c-a0ff-489b-8ef5-8502613762db",
           "Name": "Проблемы логического позитивизма",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3446,7 +3446,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M57.337S",
           "Guid": "efa6e42d-83b1-478c-847e-77e079679324",
           "Name": "Пост-позитивизм",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

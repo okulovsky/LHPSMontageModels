@@ -3473,7 +3473,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M23.463S",
           "Guid": "9142036a-d7c5-49c3-9f24-419ba6e1cd04",
           "Name": "Древний мир",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3482,7 +3482,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M3.51S",
           "Guid": "4dc6a6f6-c8f8-446d-8cd1-4aa9af7aec44",
           "Name": "Античность",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

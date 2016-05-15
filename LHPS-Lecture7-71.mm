@@ -2024,7 +2024,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT13M36.765S",
           "Guid": "cf1523a9-5ce2-454a-9a2c-15af37437497",
           "Name": "Беседы и дискуссии",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

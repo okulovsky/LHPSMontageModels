@@ -4400,7 +4400,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M54.851S",
           "Guid": "6b1e953a-a4f6-4010-915e-d5d6aab5d307",
           "Name": "Второе обоснование",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4409,7 +4409,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M54.893S",
           "Guid": "e8496e9d-57fd-4b00-9dd1-c476b3e35265",
           "Name": "Доказывает утверждающий",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4418,7 +4418,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT11M43.129S",
           "Guid": "a6d1f576-e442-4421-9c8f-ff0d76e0e3e7",
           "Name": "Корни рассуждения",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4427,7 +4427,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M16.17S",
           "Guid": "21cd0983-fe1a-44b1-9dbe-50fd96c15f6b",
           "Name": "Ошибки, связанные с дискуссией",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

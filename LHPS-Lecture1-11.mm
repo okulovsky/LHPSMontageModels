@@ -3257,7 +3257,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M23.474S",
           "Guid": "6e502f0f-d88d-4168-a1a4-3b5fd204b976",
           "Name": "Почему важно Новое Время",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": {
             "ActualHeight": 0,
             "ActualWidth": 0,
@@ -3342,7 +3342,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M18.03S",
           "Guid": "65d4fa84-a4be-45ef-b963-858b32553a01",
           "Name": "Почему важна философия",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

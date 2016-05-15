@@ -3842,7 +3842,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M27.93S",
           "Guid": "936a1f98-e980-409d-9789-84672d63b77e",
           "Name": "Научное знание",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3851,7 +3851,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M57.756S",
           "Guid": "1c0f1fb5-16e4-45e0-bb68-174f9b2deaf4",
           "Name": "Наблюдение",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3860,7 +3860,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M7.23S",
           "Guid": "6408486f-d5d0-45ba-be9d-c53ae8c4566f",
           "Name": "Формирование гипотезы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3869,7 +3869,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M41.067S",
           "Guid": "845f4725-b7af-4b98-b09b-087fa8066a9e",
           "Name": "Гипотезы и математика",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

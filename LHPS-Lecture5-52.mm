@@ -3257,7 +3257,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M44.824S",
           "Guid": "3814455f-5699-4eb2-83b2-2e2787732b01",
           "Name": "Поспешное обобщение",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3266,7 +3266,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M36.607S",
           "Guid": "58037bd3-588a-4c5c-a9a4-e16fb18398a4",
           "Name": "Misleading vividness и cherry picking",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3275,7 +3275,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M13.268S",
           "Guid": "40d13d97-4d79-47be-9a38-22480413ed83",
           "Name": "Нерепрезентативная выборка",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3284,7 +3284,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M14.035S",
           "Guid": "9d08d3fc-db77-42e3-befa-f231053ed171",
           "Name": "Отвержение индукции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

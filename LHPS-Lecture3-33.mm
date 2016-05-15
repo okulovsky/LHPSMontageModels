@@ -3356,7 +3356,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M47.765S",
           "Guid": "a6e3fd2e-5f2c-412b-a755-59fbd31b2b8f",
           "Name": "Оценочные суждения",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3365,7 +3365,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M40.095S",
           "Guid": "1fe2bdc4-71c7-4419-80b3-e232306453de",
           "Name": "Защитные конструкции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3374,7 +3374,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M29.87S",
           "Guid": "e31b1eb8-b809-4405-93af-1f3df6f309b4",
           "Name": "Нечеткие термины",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3383,7 +3383,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT2M43.965S",
           "Guid": "d20711cb-296b-45a5-96e8-f2df6fc8503d",
           "Name": "Циклические рассуждения",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3392,7 +3392,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M23.215S",
           "Guid": "b2798bbd-5994-4346-b07e-38dcfd2b0fce",
           "Name": "Парадокс кучи",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3401,7 +3401,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M6.43S",
           "Guid": "e1e9e523-cd63-44ac-a82e-a600693f19c4",
           "Name": "Заключение по критическому анализу",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

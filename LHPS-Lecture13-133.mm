@@ -3788,7 +3788,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M46.819S",
           "Guid": "3bab7392-c8b7-4cfc-8ca9-0a0e3791319b",
           "Name": "Дополнительное чтение по научному методу",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3797,7 +3797,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M58.349S",
           "Guid": "6ab7abca-5dde-40fc-bd2e-d36cc88b8816",
           "Name": "Примеры приложения научного метода",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3806,7 +3806,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M11.781S",
           "Guid": "cdb38ece-1fbe-4583-8f14-1f9138ee782b",
           "Name": "Место различных наук в научном методе",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

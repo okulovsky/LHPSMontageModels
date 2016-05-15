@@ -4094,7 +4094,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M53.052S",
           "Guid": "906b4edb-85c7-4c0c-82a5-aa1afed4ba13",
           "Name": "Свары",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4103,7 +4103,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M16.486S",
           "Guid": "c4c6bdfd-0ec4-4189-8905-9290f8c62738",
           "Name": "Начало дискуссии",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4112,7 +4112,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M34.101S",
           "Guid": "76b09903-c28a-4d28-9806-511164c249c0",
           "Name": "Первый контраргумент",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

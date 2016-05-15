@@ -3500,7 +3500,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M6.073S",
           "Guid": "04cdd8b0-4215-4b6a-9e10-8a41f6418b18",
           "Name": "Прогресс в логике и математики",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -3509,7 +3509,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M3.485S",
           "Guid": "ee715e63-1bd9-4763-90ab-8721499af6b2",
           "Name": "Новая новая наука",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }

@@ -4409,7 +4409,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M37.493S",
           "Guid": "51acc40a-ba24-47af-9f3b-9307567f8742",
           "Name": "Зачем нужна философия науки",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4418,7 +4418,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M34.562S",
           "Guid": "9ed4ebc8-94fd-4baa-a33a-c853607a638a",
           "Name": "Новая астрономия",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
@@ -4427,7 +4427,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M34.627S",
           "Guid": "d349a09c-270a-4b00-b462-0ce9b3030720",
           "Name": "Новая механика",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }
