@@ -3005,7 +3005,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS\\Lecture8\\81",
+    "DisplayedRawLocation": "Module1\\Lecture8\\81",
     "Information": {
       "CreationTimeTicks": 0,
       "Episodes": [
@@ -3039,7 +3039,7 @@ FileContainer Tuto file Version 1
       ],
       "LastModificationTimeTicks": 0
     },
-    "Patches": null,
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "8C-02-4A-36-2A-7F-AA-11-CD-A3-95-44-03-BF-25-62",
     "ReadyToEdit": false,

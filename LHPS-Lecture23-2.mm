@@ -3437,7 +3437,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS-Lecture23-2.mm",
+    "DisplayedRawLocation": "Module3\\Lecture23\\2",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
       "Episodes": [
@@ -3453,6 +3453,7 @@ FileContainer Tuto file Version 1
       ],
       "LastModificationTimeTicks": 635977853763697110
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "84-CB-2D-22-50-03-45-39-9D-86-79-92-BF-8A-E8-B1",
     "ReadyToEdit": false,
@@ -6944,14 +6945,13 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": null,
     "SynchronizationShift": 9954
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 0,
     "currentMode": 1,
     "currentPosition": 1089188,
-    "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
